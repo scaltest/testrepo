@@ -10,5 +10,6 @@ public class HelloWorld {
     private static void printMessages() {
         System.out.println("Hello, world!");
         System.out.println("This is a simple test project!");
+        System.out.println("Nothing to see here!");
     }
 }
