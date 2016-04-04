@@ -11,5 +11,6 @@ public class HelloWorld {
         System.out.println("Hello, world!");
         System.out.println("This is a simple test project!");
         System.out.println("Nothing to see here!");
+        System.out.println("Peter Piper picked a pick of pickled peppers.");
     }
 }
