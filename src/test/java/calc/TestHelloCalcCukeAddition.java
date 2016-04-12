@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
  * Created by jim on 11/04/16.
  */
 @RunWith(Cucumber.class)
-@CucumberOptions(features = {"src/test/resources/features"})
-public class TestHelloCalcCuke {
+@CucumberOptions(features = {"src/test/resources/features/addition"})
+public class TestHelloCalcCukeAddition {
 
 }
